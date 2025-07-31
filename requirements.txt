@@ -5,4 +5,4 @@ nltk
 scikit-learn
 spacy
 transformers
-gensim
+gensim==4.3.3
