@@ -10,6 +10,8 @@ COPY . .
 # Étape 4 : Installer les dépendances
 RUN pip install --upgrade pip
 RUN pip install --prefer-binary -r requirements.txt
+RUN python -m spacy download en_core_web_sm
+
 
 # Étape 5 : Exposer le port de Streamlit
 EXPOSE 8501
