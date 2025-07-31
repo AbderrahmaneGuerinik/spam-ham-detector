@@ -5,7 +5,7 @@ This project is a simple web interface to classify messages as spam or ham messg
 --- 
 ## 📸 Screenshot
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](screenshot.png)
 
 ---
 
