@@ -1,6 +1,6 @@
 # 🧠 Spam/Ham Message Detector – NLP with Transformers & Streamlit
 
-This project is a simple web interface to classify messages as spam or ham messgaes using ML and NLP techniques.
+This project is a simple web interface to classify messages as spam or ham using ML and NLP techniques.
 
 --- 
 ## 📸 Screenshot
